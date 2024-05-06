@@ -31,6 +31,7 @@ function interpark_login(userId, userPwd) {
 
         // 응답 처리
         res.on('end', () => {
+		console.log('커밋테스트');
             console.log('Response:', data); 
 
             if (data === '0') {
