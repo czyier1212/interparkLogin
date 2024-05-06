@@ -15,6 +15,12 @@ pwd: test1
 
 예2)
 C:\Users\z1654>node interparkLogin.app
+id:
+pwd:
+아이디, 또는 비밀번호를 잘못 입력하셨습니다.
+
+예3)
+C:\Users\z1654>node interparkLogin.app
 id: z16542300(회원가입이 되어있는 아이디)
 pwd: *********(회원가입이 되어있는 비밀번호)
 안녕하세요. [z16542300]님!
